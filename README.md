@@ -11,3 +11,7 @@ Cette documentation explique comment installer, configurer et optimiser macOS po
 4. [Clavier et saisie](./03-clavier.md)
 5. [Découvrir macOS](./04-macos-base.md)
 6. [Optimiser macOS](./05-macos-avancé.md)
+
+---
+
+[Commencer le guide ➡️](./00-intro.md)

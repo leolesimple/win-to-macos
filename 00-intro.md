@@ -5,6 +5,6 @@ L’objectif est d’obtenir un environnement stable, performant et cohérent, s
 
 💡 Ce guide est pensé pour les puces **Apple Silicon (M1, M2, M3, M4)**.
 
-[⬅️ Précédent](./README.md) 
+---
 
-[Suite ➡️](./01-installation.md)
+[⬅️ Précédent](./README.md) | [📋 Sommaire](./README.md) | [Suite ➡️](./01-installation.md)
