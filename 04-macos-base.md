@@ -23,6 +23,6 @@
 - Évitez NTFS sur les Disque Dur
 - Configurez Time Machine dès le départ, super si besoin d'une récupération.
 
-[⬅️ Précédent](./03-clavier.md) 
+---
 
-[Suite ➡️](./05-macos-avancé.md)
+[⬅️ Précédent](./03-clavier.md) | [📋 Sommaire](./README.md) | [Suite ➡️](./05-macos-avancé.md)

@@ -59,3 +59,7 @@ Voici quelques ressources utiles pour approfondir, apprendre les gestes avancés
 
 > 🍎 **Rappel**  
 > macOS est conçu pour être stable, sûr et fluide. Prenez le temps d’explorer ses outils natifs : ils sont souvent plus puissants qu’ils n’en ont l’air.
+
+---
+
+[⬅️ Précédent](./05-macos-avancé.md) | [📋 Retour au sommaire](./README.md)
