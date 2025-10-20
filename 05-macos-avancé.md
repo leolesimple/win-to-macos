@@ -40,6 +40,6 @@
   ```
 - Charge optimisée à garder active
 
-[⬅️ Précédent](./04-macos-base.md) 
+---
 
-[Suite ➡️](./fin.md)
+[⬅️ Précédent](./04-macos-base.md) | [📋 Sommaire](./README.md) | [Suite ➡️](./fin.md)
