@@ -20,6 +20,6 @@ softwareupdate --install-rosetta
 (Rosetta 2 permet d’exécuter des applications Intel sur puce Apple Silicon.)
 
 
-[⬅️ Précédent](./00-intro.md) 
+---
 
-[Suite ➡️](./02-apps.md)
+[⬅️ Précédent](./00-intro.md) | [📋 Sommaire](./README.md) | [Suite ➡️](./02-apps.md)

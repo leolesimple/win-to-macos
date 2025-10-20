@@ -31,7 +31,6 @@
 ---
 ❌ → je ne l'utilise pas mais peu être pratique.
 
+---
 
-[⬅️ Précédent](./01-installation.md) 
-
-[Suite ➡️](./03-clavier.md)
+[⬅️ Précédent](./01-installation.md) | [📋 Sommaire](./README.md) | [Suite ➡️](./03-clavier.md)
