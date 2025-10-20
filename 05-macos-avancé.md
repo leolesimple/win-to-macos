@@ -39,3 +39,7 @@
   caffeinate
   ```
 - Charge optimisée à garder active
+
+[⬅️ Précédent](./04-macos-base.md) 
+
+[Suite ➡️](./fin.md)
