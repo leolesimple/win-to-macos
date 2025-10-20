@@ -14,3 +14,7 @@ Réglages utiles :
 - Pour un clavier PC : inverser Ctrl et Cmd dans *Modifier les touches spéciales*
 
 > ⚠️ Sur les anciens claviers Apple, la touche <kbd>⌘</kbd> était appelée **Touche Pomme**.
+
+[⬅️ Précédent](./02-apps.md) 
+
+[Suite ➡️](./04-macos-base.md)
